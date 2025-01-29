@@ -29,8 +29,7 @@ A página principal é a única do projeto e apresenta a imagem de uma lâmpada 
 
 ## 👾 Link da página no github pages:
 
-https://suelenbraga1.github.io/desafio-lampada/
-
+(https://eusuelenbraga.github.io/desafio-lampada/)
 
 ## 👯 Clone este projeto
  
